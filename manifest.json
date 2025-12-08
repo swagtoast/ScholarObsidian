@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Scholar to Obsidian",
   "version": "1.0",
-  "description": "Esporta evidenziazioni Scholar per Obsidian",
+  "description": "Export Scholar highlights to Obsidian",
   "permissions": ["activeTab", "scripting"],
   "action": {
     "default_popup": "popup.html",
